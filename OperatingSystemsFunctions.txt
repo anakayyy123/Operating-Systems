@@ -1,0 +1,3 @@
+An operating function I'd like to discuss is Printing Controlling. It is something I mindlessly use daily.
+The operating system controls printing function. It issues two print commands. It doesn't combine the data of
+the two files and prints them seperately.
