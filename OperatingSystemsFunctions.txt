@@ -2,3 +2,4 @@ An operating function I'd like to discuss is Printing Controlling. It is somethi
 The operating system controls printing function. It issues two print commands. It doesn't combine the data of
 the two files and prints them seperately.
 Another system function is the Data Secutiry. It is essential part of the computer system. It protects data that is stored on the computer from risk of illegal use.
+Lastly, the function of Booting. It is a process of starting the computer operating system. It checks/ scans the computer to make sure it is functioning as needed. Its an important first start.
